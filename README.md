@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image title](https://rushter.com/counter.svg)
+[![HitCount](http://hits.dwyl.com/MexsonFernandes/MexsonFernandes.svg)](http://hits.dwyl.com/MexsonFernandes/MexsonFernandes)
 
 - 🔭 I’m currently working on my startup RoboMx
 - 🌱 I’m currently learning DevOps skills

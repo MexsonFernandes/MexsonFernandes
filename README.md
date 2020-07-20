@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/MexsonFernandes/MexsonFernandes.svg)](http://hits.dwyl.com/MexsonFernandes/MexsonFernandes)
+[![HitCount](https://github-counter.glitch.me/count.svg)](https://github-counter.glitch.me/count.svg)
 
 - 🔭 I’m currently working on my startup RoboMx
 - 🌱 I’m currently learning DevOps skills

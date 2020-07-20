@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image title](https://rushter.com/counter.svg)
+
 - 🔭 I’m currently working on my startup RoboMx
 - 🌱 I’m currently learning DevOps skills
 - 👯 I’m looking to collaborate on ideating any product using my tech skills
@@ -9,4 +11,4 @@
 - ⚡ Fun fact: I am unpredictable.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mexsonfernandes&show_icons=true&theme=dark)
+![Mexson's github stats](https://github-readme-stats.vercel.app/api?username=mexsonfernandes&show_icons=true&theme=dark)

@@ -38,7 +38,7 @@
 
 
 
-![Mexson's github stats](https://github-readme-stats.vercel.app/api?username=mexsonfernandes&show_icons=true&theme=dark&count_private=true)
+![Mexson's github stats](https://github-readme-stats.vercel.app/api?username=mexsonfernandes&show_icons=true&theme=default&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mexsonfernandes&layout=compact&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mexsonfernandes&layout=compact&hide=css,html)

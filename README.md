@@ -25,6 +25,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
 </p>
 
 

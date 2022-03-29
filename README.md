@@ -37,7 +37,7 @@
 - 🌱 I’m currently learning DevOps skills
 - 👯 I’m looking to collaborate on ideating any product using my tech skills
 - 💬 Ask me about solving your tech related problem
-- 📫 How to reach me: mexsonfernandes.com for more info
+- 📫 How to reach me: https://mexsonfernandes.com for more info
 - 😄 Pronoun: RoboMex
 - ⚡ Fun fact: I am unpredictable.
 
